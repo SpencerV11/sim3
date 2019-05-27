@@ -1,0 +1,11 @@
+.login-box {
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}

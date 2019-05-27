@@ -1,0 +1,1 @@
+select * from people inner join posts on (people.id = posts.people_id );
